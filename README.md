@@ -9,7 +9,7 @@ Modern Icon Office-VSTO Addins and useful tools.
 - PowerPoint用アドイン PowerPoin addin
 - アイコン画像取得用スタンドアロンツール(.exe) StandAlone tool
 
-<動作画像掲載予定>
+<img src="https://user-images.githubusercontent.com/46097651/197471988-45cc2dc8-1ad6-4863-ad37-07e70ca00e52.png" width="50%">
 
 ## Licence
 本アプリ自体はApatche 2.0ライセンスのOSSです。

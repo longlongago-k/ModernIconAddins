@@ -11,6 +11,11 @@ Modern Icon Office-VSTO Addins and useful tools.
 
 <img src="https://user-images.githubusercontent.com/46097651/197471988-45cc2dc8-1ad6-4863-ad37-07e70ca00e52.png" width="50%">
 
+## 収録アイコン
+- Google Material Design Icons (https://github.com/google/material-design-icons)
+- materialdesignicons.com (https://github.com/Templarian/MaterialDesign-Webfont)
+- FontAwesome 6 Free (https://fontawesome.com/icons)
+
 ## Licence
 本アプリ自体はApatche 2.0ライセンスのOSSです。
 正し、同梱のフォントやライブラリはそれぞれの提供元に従属します。

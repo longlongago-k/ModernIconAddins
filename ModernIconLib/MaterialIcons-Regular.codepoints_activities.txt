@@ -1,0 +1,609 @@
+
+<div _ngcontent-vdl-c156="" role="listbox" class="icons-container" aria-label="Activities icons" style="height: 2103.9px;">
+<button _ngcontent-vdl-c156="" icon-item="" aria-hidden="true" disabled="" class="invisible-icon-placeholder" _nghost-vdl-c155="">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted">
+<span _ngcontent-vdl-c155="" style="">school</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+School</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="School Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">school</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+School</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Campaign Icon" aria-selected="true" class="ng-star-inserted selected" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">campaign</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Campaign</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Construction Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">construction</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Construction</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Engineering Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">engineering</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Engineering</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Volunteer Activism Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">volunteer_activism</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Volunteer Activism</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Science Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">science</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Science</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Esports Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_esports</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Esports</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Confirmation Number Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">confirmation_number</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Confirmation Number</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Real Estate Agent Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">real_estate_agent</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Real Estate Agent</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Cake Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">cake</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Cake</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Soccer Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_soccer</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Soccer</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Self Improvement Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">self_improvement</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Self Improvement</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Air Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">air</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Air</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Biotech Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">biotech</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Biotech</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Water Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">water</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Water</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Hiking Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">hiking</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Hiking</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Architecture Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">architecture</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Architecture</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Personal Injury Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">personal_injury</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Personal Injury</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Score Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_score</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Score</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Basketball Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_basketball</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Basketball</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Waves Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">waves</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Waves</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Theaters Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">theaters</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Theaters</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Tennis Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_tennis</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Tennis</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Switch Account Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">switch_account</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Switch Account</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Nights Stay Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">nights_stay</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Nights Stay</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Gymnastics Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_gymnastics</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Gymnastics</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Backpack Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">backpack</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Backpack</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Motorsports Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_motorsports</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Motorsports</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Kabaddi Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_kabaddi</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Kabaddi</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Surfing Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">surfing</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Surfing</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Piano Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">piano</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Piano</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="How To Vote Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">how_to_vote</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+How To Vote</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Toys Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">toys</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Toys</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Volleyball Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_volleyball</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Volleyball</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Martial Arts Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_martial_arts</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Martial Arts</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Baseball Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_baseball</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Baseball</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Camping Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">camping</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Camping</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Downhill Skiing Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">downhill_skiing</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Downhill Skiing</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Kayaking Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">kayaking</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Kayaking</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Swords Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">swords</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Swords</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Scoreboard Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">scoreboard</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Scoreboard</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Phishing Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">phishing</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Phishing</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Handball Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_handball</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Handball</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Football Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_football</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Football</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Skateboarding Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">skateboarding</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Skateboarding</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Golf Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_golf</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Golf</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Cricket Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_cricket</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Cricket</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Nordic Walking Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">nordic_walking</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Nordic Walking</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Toys Fan Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">toys_fan</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Toys Fan</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Roller Skating Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">roller_skating</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Roller Skating</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Kitesurfing Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">kitesurfing</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Kitesurfing</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Rowing Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">rowing</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Rowing</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Scuba Diving Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">scuba_diving</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Scuba Diving</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Mma Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_mma</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Mma</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Storm Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">storm</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Storm</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Paragliding Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">paragliding</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Paragliding</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Hockey Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_hockey</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Hockey</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Snowboarding Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">snowboarding</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Snowboarding</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Ice Skating Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">ice_skating</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Ice Skating</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Snowshoeing Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">snowshoeing</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Snowshoeing</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sports Rugby Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sports_rugby</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sports Rugby</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Sledding Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">sledding</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Sledding</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Piano Off Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">piano_off</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Piano Off</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="No Backpack Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">no_backpack</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+No Backpack</span>
+</button>
+<button _ngcontent-vdl-c156="" icon-item="" aria-haspopup="dialog" role="option" _nghost-vdl-c155="" aria-label="Cake Add Icon" aria-selected="false" class="ng-star-inserted" style="font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 48;">
+<span _ngcontent-vdl-c155="" class="icon-asset material-symbols-outlined ng-star-inserted" style="font-size: 48px;">
+<span _ngcontent-vdl-c155="" style="">cake_add</span>
+</span>
+<!---->
+<!---->
+<span _ngcontent-vdl-c155="" class="icon-name mat-caption">
+Cake Add</span>
+</button>
+<!---->
+<!---->
+<!---->
+</div>

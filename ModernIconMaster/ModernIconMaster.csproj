@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon\Google_Material_Design_Logo.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -65,6 +68,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -84,6 +88,15 @@
       <Project>{9548FE5B-D618-4249-ACC7-5D58189FA27A}</Project>
       <Name>ModernIconLib</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon\Google_Material_Design_Logo.ico" />
+    <Content Include="icon\Google_Material_Design_Logo_x128.png" />
+    <Content Include="icon\Google_Material_Design_Logo_x16.png" />
+    <Content Include="icon\Google_Material_Design_Logo_x24.png" />
+    <Content Include="icon\Google_Material_Design_Logo_x256.png" />
+    <Content Include="icon\Google_Material_Design_Logo_x32.png" />
+    <Content Include="icon\Google_Material_Design_Logo_x64.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

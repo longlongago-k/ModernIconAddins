@@ -25,11 +25,11 @@ namespace ModernIconLib.Rendering
             //float pt = def.IconSize / 1.33f;
             g.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
             g.TextRenderingHint = TextRenderingHint.ClearTypeGridFit;
-            var layout = new RectangleF(0, 0, 64, 64);
+            var layout = new RectangleF(0, 0, def.IconSize, def.IconSize);
 
             using (GraphicsPath path = new GraphicsPath())
             {
-                path.AddString(iconCode.CharString, font, (int)FontStyle.Regular, 64, layout, sf);
+                path.AddString(iconCode.CharString, font, (int)FontStyle.Regular, def.IconSize, layout, sf);
                 if (def.IsFill)
                     using (Brush b = new SolidBrush(def.FillColor))
                         g.FillPath(b, path);

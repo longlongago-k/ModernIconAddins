@@ -171,8 +171,10 @@ namespace ModernIconLib.UI.Preview
         }
         private IIconRender getRenderer(IconData icon)
         {
-            if (icon.Font.Name.Contains("Awesom"))
+            if (icon.Font.Name.Contains("Awesome"))
                 return new IconBitmapListViewFontAwesomeRender();
+            if (icon.Font.Name.Contains("Segoe"))
+                return new IconBitmapListViewRenderSegoeMDL2();
             else
                 return new IconBitmapRender();
         }

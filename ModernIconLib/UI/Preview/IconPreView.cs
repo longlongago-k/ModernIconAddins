@@ -22,6 +22,7 @@ namespace ModernIconLib.UI.Preview
 
         private IIconRender renderIcon = new IconBitmapRender();
         private IIconRender renderAwsome = new IconBitmapListViewFontAwesomeRender();
+        private IIconRender renderSegoeMDL2 = new IconBitmapListViewRenderSegoeMDL2();
         private EmfVectorGraphics emfGraphics = new EmfVectorGraphics();
         public IconPreView()
         {
@@ -79,8 +80,10 @@ namespace ModernIconLib.UI.Preview
 
         private IIconRender getRenderer(IconData icon)
         {
-            if (icon.Font.Name.Contains("Awesom"))
+            if (icon.Font.Name.Contains("Awesome"))
                 return renderAwsome;
+            if (icon.Font.Name.Contains("Segoe"))
+                return renderSegoeMDL2;
             else
                 return renderIcon;
         }

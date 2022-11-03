@@ -26,15 +26,22 @@ namespace ModernIconLib.Asset
         public IconSetAsset(string assetName, FontFamily fontFamily, IconCode[] iconCodeList)
         {
             AssetName = assetName ?? throw new ArgumentNullException(nameof(assetName));
-            FontFamily = fontFamily ?? throw new ArgumentNullException(nameof(fontFamily));
+            FontFamily = fontFamily ;
             IconCodeList = iconCodeList;
-            this.IconCodeIdxDic = iconCodeList.Select((code, idx) => new { idx, code })
-                .ToDictionary(v => v.code, v => v.idx);
+            if (iconCodeList != null)
+            {
+                this.IconCodeIdxDic = iconCodeList.Select((code, idx) => new { idx, code })
+                    .ToDictionary(v => v.code, v => v.idx);
+            }
+            else
+            {
+                IconCodeIdxDic = new Dictionary<IconCode, int>();
+            }
         }
 
         public void CreateIconImageList(IIconDataRender render, IconRenderParameter renderParam)
         {
-            if (IconImageList == null)
+            if (IconImageList == null || IconCodeList == null)
                 return;
             if (IconImageList.Length > 0)
                 foreach (var icon in IconImageList)
@@ -49,7 +56,11 @@ namespace ModernIconLib.Asset
 
         public override string ToString()
         {
-            return $"{AssetName} ({IconCodeList?.Length})";
+            if (IconCodeList != null)
+                return $"{AssetName} ({IconCodeList?.Length})";
+            else
+                return $"{AssetName}";
+
         }
     }
 }

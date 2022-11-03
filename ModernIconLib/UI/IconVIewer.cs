@@ -16,6 +16,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Runtime.InteropServices;
 
 namespace ModernIconLib.UI
 {
@@ -65,6 +66,7 @@ namespace ModernIconLib.UI
             if (comboBoxAssets.SelectedItem is IconSetAsset == false)
                 return;
             iconDrawSettingPanel.IconData = null;
+            var lastAsset = currentAsset;
             currentAsset = (IconSetAsset)comboBoxAssets.SelectedItem;
             comboBoxAssets.Enabled = false;
             textBoxSearch.Enabled = false;
@@ -84,7 +86,16 @@ namespace ModernIconLib.UI
 
             currentAsset.CreateIconImageList(render, renderPaream);
             Parallel.ForEach(currentAsset.IconImageList, icon => icon.CreateIconCache());
+            //キャッシュのクリア
+            if (lastAsset != currentAsset && lastAsset != null)
+                Parallel.ForEach(lastAsset.IconImageList, icon => icon.IconImage.Dispose());
+
             setImageList();
+
+            //メモリの開放、UIをブロックするのでもし問題が発生する場合は要最適化
+            GC.Collect();
+            GC.WaitForPendingFinalizers();
+
             comboBoxAssets.Enabled = true;
             textBoxSearch.Enabled = true;
         }

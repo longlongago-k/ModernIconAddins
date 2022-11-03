@@ -21,9 +21,9 @@ namespace ModernIconLib.UI.Preview
         public IconRenderParameter IconRenderParameter { get; set; }
 
         private IIconRender renderIcon = new IconBitmapRender();
-        private IIconRender renderAwsome = new IconBitmapListViewFontAwesomeRender();
-        private IIconRender renderSegoeMDL2 = new IconBitmapListViewRenderSegoeMDL2();
-        private IIconRender renderFluent = new IconBitmapListViewRenderFluent();
+        private IIconRender renderAwsome = new IconBitmapFontAwesomeRender();
+        private IIconRender renderSegoeMDL2 = new IconBitmapRenderSegoeMDL2();
+        private IIconRender renderFluent = new IconBitmapRenderFluent();
         private EmfVectorGraphics emfGraphics = new EmfVectorGraphics();
         public IconPreView()
         {

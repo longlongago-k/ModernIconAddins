@@ -64,8 +64,11 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <Compile Include="Rendering\EmfVectorGraphics.cs" />
+    <Compile Include="Rendering\IconBitmapFontAwesomeRender.cs" />
     <Compile Include="Rendering\IconBitmapListViewFontAwesomeRender.cs" />
+    <Compile Include="Rendering\IconBitmapRenderFluent.cs" />
     <Compile Include="Rendering\IconBitmapListViewRenderFluent.cs" />
+    <Compile Include="Rendering\IconBitmapRenderSegoeMDL2.cs" />
     <Compile Include="Rendering\IconBitmapListViewRenderSegoeMDL2.cs" />
     <Compile Include="Rendering\IconBitmapListViewRender .cs" />
     <Compile Include="Rendering\IconBitmapRender.cs" />

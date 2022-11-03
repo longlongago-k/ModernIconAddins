@@ -33,15 +33,15 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.label1 = new System.Windows.Forms.Label();
+            this.textBoxSearch = new ModernIconLib.UI.DefferredTextbox();
             this.label2 = new System.Windows.Forms.Label();
             this.buttonRefresh = new System.Windows.Forms.Button();
             this.splitContainer = new System.Windows.Forms.SplitContainer();
             this.listViewIcon = new System.Windows.Forms.ListView();
             this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.toolTip = new System.Windows.Forms.ToolTip(this.components);
             this.iconDrawSettingPanel = new ModernIconLib.UI.Preview.IconDrawSettingPanel();
-            this.textBoxSearch = new ModernIconLib.UI.DefferredTextbox();
+            this.toolTip = new System.Windows.Forms.ToolTip(this.components);
             this.panel2.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer)).BeginInit();
@@ -102,6 +102,15 @@
             this.label1.Size = new System.Drawing.Size(43, 12);
             this.label1.TabIndex = 3;
             this.label1.Text = "IconSet";
+            // 
+            // textBoxSearch
+            // 
+            this.textBoxSearch.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.textBoxSearch.Location = new System.Drawing.Point(52, 33);
+            this.textBoxSearch.Name = "textBoxSearch";
+            this.textBoxSearch.Size = new System.Drawing.Size(746, 19);
+            this.textBoxSearch.TabIndex = 5;
+            this.textBoxSearch.TextChanged += new System.EventHandler(this.textBoxSearch_TextChanged);
             // 
             // label2
             // 
@@ -180,15 +189,6 @@
             this.iconDrawSettingPanel.Size = new System.Drawing.Size(247, 593);
             this.iconDrawSettingPanel.TabIndex = 0;
             this.iconDrawSettingPanel.ImageCopiedToClipboard += new System.EventHandler(this.iconDrawSettingPanel_ImageCopiedToClipboard);
-            // 
-            // textBoxSearch
-            // 
-            this.textBoxSearch.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBoxSearch.Location = new System.Drawing.Point(52, 33);
-            this.textBoxSearch.Name = "textBoxSearch";
-            this.textBoxSearch.Size = new System.Drawing.Size(746, 19);
-            this.textBoxSearch.TabIndex = 5;
-            this.textBoxSearch.TextChanged += new System.EventHandler(this.textBoxSearch_TextChanged);
             // 
             // IconVIewer
             // 

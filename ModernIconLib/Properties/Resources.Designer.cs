@@ -73,6 +73,90 @@ namespace ModernIconLib.Properties {
         /// <summary>
         ///   型 System.Byte[] のローカライズされたリソースを検索します。
         /// </summary>
+        internal static byte[] FluentSystemIcons_Filled {
+            get {
+                object obj = ResourceManager.GetObject("FluentSystemIcons_Filled", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Code,Name,Category,Tags
+        ///F101,access_time,,
+        ///E002,accessibility,,
+        ///F00C,accessibility_checkmark,,
+        ///F10B,add,,
+        ///E006,add_circle,,
+        ///F8E2,add_square,,
+        ///E009,add_square_multiple,,
+        ///E00E,add_subtract_circle,,
+        ///F110,airplane,,
+        ///F113,airplane_take_off,,
+        ///E010,album,,
+        ///E012,album_add,,
+        ///E016,alert,,
+        ///E019,alert_badge,,
+        ///F11A,alert_off,,
+        ///F11B,alert_on,,
+        ///F11D,alert_snooze,,
+        ///F11F,alert_urgent,,
+        ///E023,align_bottom,,
+        ///E029,align_center_horizontal,,
+        ///E02F,align_center_vertical,,
+        ///E030,align_end_horizontal,,
+        ///E031,alig [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string FluentSystemIcons_Filled_codepoints {
+            get {
+                return ResourceManager.GetString("FluentSystemIcons_Filled_codepoints", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   型 System.Byte[] のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static byte[] FluentSystemIcons_Regular {
+            get {
+                object obj = ResourceManager.GetObject("FluentSystemIcons_Regular", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Code,Name,Category,Tags
+        ///F101,access_time,,
+        ///E002,accessibility,,
+        ///F00C,accessibility_checkmark,,
+        ///F10B,add,,
+        ///E006,add_circle,,
+        ///F8CA,add_square,,
+        ///E009,add_square_multiple,,
+        ///E00E,add_subtract_circle,,
+        ///F110,airplane,,
+        ///F113,airplane_take_off,,
+        ///E010,album,,
+        ///E012,album_add,,
+        ///E016,alert,,
+        ///E019,alert_badge,,
+        ///F11A,alert_off,,
+        ///F11B,alert_on,,
+        ///F11D,alert_snooze,,
+        ///F11F,alert_urgent,,
+        ///E023,align_bottom,,
+        ///E029,align_center_horizontal,,
+        ///E02F,align_center_vertical,,
+        ///E030,align_end_horizontal,,
+        ///E031,alig [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string FluentSystemIcons_Regular_codepoints {
+            get {
+                return ResourceManager.GetString("FluentSystemIcons_Regular_codepoints", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   型 System.Byte[] のローカライズされたリソースを検索します。
+        /// </summary>
         internal static byte[] Font_Awesome_6_Brands_Regular_400 {
             get {
                 object obj = ResourceManager.GetObject("Font_Awesome_6_Brands_Regular_400", resourceCulture);

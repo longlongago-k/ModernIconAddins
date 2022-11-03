@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Asset\FluentSystemIconsAssetReader.cs" />
     <Compile Include="Asset\SegoeUIMDL2AssetReader.cs" />
     <Compile Include="Asset\FontAwesomeIconAssetReader.cs" />
     <Compile Include="Asset\PictogrammersMaterialIconAssetReader.cs" />
@@ -64,6 +65,7 @@
     </Compile>
     <Compile Include="Rendering\EmfVectorGraphics.cs" />
     <Compile Include="Rendering\IconBitmapListViewFontAwesomeRender.cs" />
+    <Compile Include="Rendering\IconBitmapListViewRenderFluent.cs" />
     <Compile Include="Rendering\IconBitmapListViewRenderSegoeMDL2.cs" />
     <Compile Include="Rendering\IconBitmapListViewRender .cs" />
     <Compile Include="Rendering\IconBitmapRender.cs" />
@@ -121,7 +123,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="Resource\codepoints\FluentSystemIcons-Filled.codepoints.csv" />
+    <None Include="Resource\codepoints\FluentSystemIcons-Regular.codepoints.csv" />
     <None Include="Resource\codepoints\SegoeMDL2Assets.codepoints.csv" />
+    <None Include="Resource\fonts\FluentSystemIcons-Filled.ttf" />
+    <None Include="Resource\fonts\FluentSystemIcons-Regular.ttf" />
     <None Include="Resource\fonts\Font Awesome 6 Brands-Regular-400.otf" />
     <None Include="Resource\fonts\Font Awesome 6 Free-Regular-400.otf" />
     <None Include="Resource\fonts\Font Awesome 6 Free-Solid-900.otf" />

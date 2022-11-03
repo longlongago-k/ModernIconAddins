@@ -43,7 +43,8 @@ namespace ModernIconLib.UI
             var asset_pictgrammer = PictogrammersMaterialIconAssetReader.ReadFromResource();
             var asset_fontawesome = FontAwesomeIconAssetReader.ReadFromResource();
             var asset_segoemdl2 = SegoeUIMDL2AssetReader.ReadFromResource();
-            SetAssets(asset_google.Concat(asset_pictgrammer).Concat(asset_fontawesome).Concat(asset_segoemdl2).ToArray());
+            var asset_fluent = FluentSystemIconsAssetReader.ReadFromResource();
+            SetAssets(asset_google.Concat(asset_pictgrammer).Concat(asset_fontawesome).Concat(asset_segoemdl2).Concat(asset_fluent).ToArray());
 
         }
 
@@ -76,6 +77,8 @@ namespace ModernIconLib.UI
                 render = new IconBitmapListViewFontAwesomeRender();
             else if (currentAsset.AssetName.Contains("Segoe"))
                 render = new IconBitmapListViewRenderSegoeMDL2();
+            else if (currentAsset.AssetName.Contains("Fluent"))
+                render = new IconBitmapListViewRenderFluent();
             else
                 render = new IconBitmapListViewRender();
 

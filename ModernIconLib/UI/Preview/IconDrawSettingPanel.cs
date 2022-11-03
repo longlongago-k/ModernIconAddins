@@ -175,6 +175,8 @@ namespace ModernIconLib.UI.Preview
                 return new IconBitmapListViewFontAwesomeRender();
             if (icon.Font.Name.Contains("Segoe"))
                 return new IconBitmapListViewRenderSegoeMDL2();
+            if (icon.Font.Name.Contains("Fluent"))
+                return new IconBitmapListViewRenderFluent();
             else
                 return new IconBitmapRender();
         }

@@ -42,7 +42,8 @@ namespace ModernIconLib.UI
             var asset_google = GoogleMaterialIconAssetReader.ReadFromResource();
             var asset_pictgrammer = PictogrammersMaterialIconAssetReader.ReadFromResource();
             var asset_fontawesome = FontAwesomeIconAssetReader.ReadFromResource();
-            SetAssets(asset_google.Concat(asset_pictgrammer).Concat(asset_fontawesome).ToArray());
+            var asset_segoemdl2 = SegoeUIMDL2AssetReader.ReadFromResource();
+            SetAssets(asset_google.Concat(asset_pictgrammer).Concat(asset_fontawesome).Concat(asset_segoemdl2).ToArray());
 
         }
 
@@ -72,7 +73,9 @@ namespace ModernIconLib.UI
             listViewIcon.Items.Clear();
             IIconDataRender render;
             if (currentAsset.AssetName.Contains("Font Awesome"))
-                render = new IconBitmapListViewFontAwesomeRender() ;
+                render = new IconBitmapListViewFontAwesomeRender();
+            else if (currentAsset.AssetName.Contains("Segoe"))
+                render = new IconBitmapListViewRenderSegoeMDL2();
             else
                 render = new IconBitmapListViewRender();
 

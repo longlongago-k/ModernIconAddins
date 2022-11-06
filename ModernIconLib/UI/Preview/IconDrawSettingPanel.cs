@@ -44,7 +44,7 @@ namespace ModernIconLib.UI.Preview
             if (DesignMode)
                 tableLayoutPanel1.Visible = true;
             updateSizeLabel();
-
+            trackBarSize_Scroll(this, null);
         }
 
         private void panelColorFill_MouseDown(object sender, MouseEventArgs e)

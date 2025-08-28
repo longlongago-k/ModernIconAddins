@@ -1,0 +1,343 @@
+﻿Code,Name,Category,Tags
+f2b9,Address Book,Business,contact;directory;employee;index;little black book;portfolio;rolodex;uer;username
+f2b9,Address Book,Communication,contact;directory;employee;index;little black book;portfolio;rolodex;uer;username
+f2b9,Address Book,Users + People,contact;directory;employee;index;little black book;portfolio;rolodex;uer;username
+f2bb,Address Card,Accessibility,about;contact;employee;id;identification;portfolio;postcard;profile;registration;uer;username
+f2bb,Address Card,Alphabet,about;contact;employee;id;identification;portfolio;postcard;profile;registration;uer;username
+f2bb,Address Card,Business,about;contact;employee;id;identification;portfolio;postcard;profile;registration;uer;username
+f2bb,Address Card,Communication,about;contact;employee;id;identification;portfolio;postcard;profile;registration;uer;username
+f2bb,Address Card,Users + People,about;contact;employee;id;identification;portfolio;postcard;profile;registration;uer;username
+f34e,Alarm Clock,Alert,alarm;alarm clock;clock;date;late;pending;reminder;sleep;snooze;timer;timestamp;watch
+f34e,Alarm Clock,Time,alarm;alarm clock;clock;date;late;pending;reminder;sleep;snooze;timer;timestamp;watch
+f34e,Alarm Clock,Travel + Hotel,alarm;alarm clock;clock;date;late;pending;reminder;sleep;snooze;timer;timestamp;watch
+f0f3,Bell,Alert,alarm;alert;bel;bell;chime;notification;reminder;request
+f0f3,Bell,Education,alarm;alert;bel;bell;chime;notification;reminder;request
+f0f3,Bell,Household,alarm;alert;bel;bell;chime;notification;reminder;request
+f0f3,Bell,Maps,alarm;alert;bel;bell;chime;notification;reminder;request
+f0f3,Bell,Shopping,alarm;alert;bel;bell;chime;notification;reminder;request
+f0f3,Bell,Social,alarm;alert;bel;bell;chime;notification;reminder;request
+f0f3,Bell,Time,alarm;alert;bel;bell;chime;notification;reminder;request
+f1f6,Bell Slash,Alert,alert;bell;bell with slash;cancel;disabled;forbidden;mute;notification;off;quiet;reminder;silent
+f1f6,Bell Slash,Education,alert;bell;bell with slash;cancel;disabled;forbidden;mute;notification;off;quiet;reminder;silent
+f1f6,Bell Slash,Maps,alert;bell;bell with slash;cancel;disabled;forbidden;mute;notification;off;quiet;reminder;silent
+f1f6,Bell Slash,Time,alert;bell;bell with slash;cancel;disabled;forbidden;mute;notification;off;quiet;reminder;silent
+f02e,Bookmark,Maps,bookmark;favorite;library;mark;marker;read;remember;research;save
+f02e,Bookmark,Shapes,bookmark;favorite;library;mark;marker;read;remember;research;save
+f02e,Bookmark,Shopping,bookmark;favorite;library;mark;marker;read;remember;research;save
+f02e,Bookmark,Writing,bookmark;favorite;library;mark;marker;read;remember;research;save
+f1ad,Building,Buildings,apartment;building;business;city;company;office;office building;urban;work
+f1ad,Building,Business,apartment;building;business;city;company;office;office building;urban;work
+f1ad,Building,Humanitarian,apartment;building;business;city;company;office;office building;urban;work
+f1ad,Building,Maps,apartment;building;business;city;company;office;office building;urban;work
+f133,Calendar,Business,calendar;calendar-o;date;day;event;month;schedule;tear-off calendar;time;when;year
+f133,Calendar,Shapes,calendar;calendar-o;date;day;event;month;schedule;tear-off calendar;time;when;year
+f133,Calendar,Time,calendar;calendar-o;date;day;event;month;schedule;tear-off calendar;time;when;year
+f274,Calendar Check,Time,accept;agree;appointment;confirm;correct;date;day;done;enable;event;month;ok;schedule;select;success;tick;time;todo;validate;warranty;when;working;year
+f073,Calendar Days,Business,calendar;date;day;event;month;schedule;time;when;year
+f073,Calendar Days,Time,calendar;date;day;event;month;schedule;time;when;year
+f272,Calendar Minus,Time,calendar;date;day;delete;event;month;negative;remove;schedule;time;when;year
+f271,Calendar Plus,Time,add;calendar;create;date;day;event;month;new;positive;schedule;time;when;year
+f273,Calendar Xmark,Time,archive;calendar;date;day;delete;event;month;remove;schedule;time;uncheck;when;x;year
+f030,Camera,Devices + Hardware,image;img;lens;photo;picture;record;shutter;video
+f030,Camera,Photos + Images,image;img;lens;photo;picture;record;shutter;video
+f030,Camera,Shopping,image;img;lens;photo;picture;record;shutter;video
+f030,Camera,Social,image;img;lens;photo;picture;record;shutter;video
+f080,Chart Bar,Charts + Diagrams,analytics;bar;chart;graph;performance;statistics
+f43a,Chess Bishop,Gaming,Black Chess Bishop;board;checkmate;game;strategy
+f43f,Chess King,Gaming,Black Chess King;board;checkmate;game;strategy
+f441,Chess Knight,Gaming,Black Chess Knight;board;checkmate;game;horse;strategy
+f443,Chess Pawn,Gaming,board;checkmate;chess;chess pawn;dupe;expendable;game;strategy
+f445,Chess Queen,Gaming,Black Chess Queen;board;checkmate;game;strategy
+f447,Chess Rook,Gaming,Black Chess Rook;board;castle;checkmate;game;strategy
+f111,Circle,Film + Video,Black Circle;Black Large Circle;black circle;blue;blue circle;brown;brown circle;chart;circle;circle-thin;diameter;dot;ellipse;fill;geometric;green;green circle;notification;orange;orange circle;progress;purple;purple circle;red;red circle;round;white circle;yellow;yellow circle
+f111,Circle,Shapes,Black Circle;Black Large Circle;black circle;blue;blue circle;brown;brown circle;chart;circle;circle-thin;diameter;dot;ellipse;fill;geometric;green;green circle;notification;orange;orange circle;progress;purple;purple circle;red;red circle;round;white circle;yellow;yellow circle
+f111,Circle,Toggle,Black Circle;Black Large Circle;black circle;blue;blue circle;brown;brown circle;chart;circle;circle-thin;diameter;dot;ellipse;fill;geometric;green;green circle;notification;orange;orange circle;progress;purple;purple circle;red;red circle;round;white circle;yellow;yellow circle
+f058,Circle Check,Editing,accept;affected;agree;clear;confirm;correct;coupon;done;enable;ok;select;success;tick;todo;validate;working;yes
+f058,Circle Check,Text Formatting,accept;affected;agree;clear;confirm;correct;coupon;done;enable;ok;select;success;tick;todo;validate;working;yes
+f058,Circle Check,Toggle,accept;affected;agree;clear;confirm;correct;coupon;done;enable;ok;select;success;tick;todo;validate;working;yes
+f192,Circle Dot,Toggle,bullseye;button;geometric;notification;radio;radio button;target
+f358,Circle Down,Arrows,arrow-circle-o-down;download
+f359,Circle Left,Arrows,arrow-circle-o-left;back;previous
+f28b,Circle Pause,Media Playback,hold;wait
+f144,Circle Play,Media Playback,audio;music;playing;sound;start;video
+f059,Circle Question,Accessibility,faq;help;information;support;unknown
+f059,Circle Question,Punctuation + Symbols,faq;help;information;support;unknown
+f35a,Circle Right,Arrows,arrow-circle-o-right;forward;next
+f28d,Circle Stop,Media Playback,block;box;circle;square
+f35b,Circle Up,Arrows,arrow-circle-o-up;upgrade
+f2bd,Circle User,Social,employee;uer;username;users-people
+f2bd,Circle User,Users + People,employee;uer;username;users-people
+f057,Circle Xmark,Mathematics,close;cross;destroy;exit;incorrect;notice;notification;notify;problem;uncheck;wrong;x
+f328,Clipboard,Business,clipboard;copy;notepad;notes;paste;record
+f017,Clock,Time,00;4;4:00;clock;date;four;four o’clock;hour;late;minute;o'clock;o’clock;pending;schedule;ticking;time;timer;timestamp;watch
+f24d,Clone,Design,add;arrange;copy;duplicate;new;paste
+f24d,Clone,Files,add;arrange;copy;duplicate;new;paste
+f24d,Clone,Photos + Images,add;arrange;copy;duplicate;new;paste
+f20a,Closed Captioning,Accessibility,cc;deaf;hearing;subtitle;subtitling;text;video
+f20a,Closed Captioning,Film + Video,cc;deaf;hearing;subtitle;subtitling;text;video
+f0c2,Cloud,Connectivity,atmosphere;cloud;fog;overcast;save;upload;weather
+f0c2,Cloud,Shapes,atmosphere;cloud;fog;overcast;save;upload;weather
+f0c2,Cloud,Weather,atmosphere;cloud;fog;overcast;save;upload;weather
+f075,Comment,Communication,Right Speech Bubble;answer;bubble;chat;commenting;conversation;conversation;discussion;feedback;message;note;notification;sms;speech;talk;talking;texting
+f075,Comment,Shapes,Right Speech Bubble;answer;bubble;chat;commenting;conversation;conversation;discussion;feedback;message;note;notification;sms;speech;talk;talking;texting
+f075,Comment,Social,Right Speech Bubble;answer;bubble;chat;commenting;conversation;conversation;discussion;feedback;message;note;notification;sms;speech;talk;talking;texting
+f4ad,Comment Dots,Communication,answer;balloon;bubble;chat;comic;commenting;conversation;dialog;feedback;message;more;note;notification;reply;request;sms;speech;speech balloon;texting
+f086,Comments,Communication,Two Speech Bubbles;answer;bubble;chat;commenting;conversation;conversation;discussion;feedback;message;note;notification;sms;speech;talk;talking;texting
+f14e,Compass,Business,compass;directions;directory;location;magnetic;menu;navigation;orienteering;safari;travel
+f14e,Compass,Camping,compass;directions;directory;location;magnetic;menu;navigation;orienteering;safari;travel
+f14e,Compass,Spinners,compass;directions;directory;location;magnetic;menu;navigation;orienteering;safari;travel
+f0c5,Copy,Business,clone;duplicate;file;files-o;paper;paste
+f0c5,Copy,Design,clone;duplicate;file;files-o;paper;paste
+f0c5,Copy,Files,clone;duplicate;file;files-o;paper;paste
+f1f9,Copyright,Business,brand;c;copyright;mark;register;trademark
+f09d,Credit Card,Money,buy;card;checkout;credit;credit card;credit-card-alt;debit;money;payment;purchase
+f09d,Credit Card,Shopping,buy;card;checkout;credit;credit card;credit-card-alt;debit;money;payment;purchase
+f0e0,Envelope,Business,Back of Envelope;e-mail;email;envelope;letter;mail;message;newsletter;notification;offer;support
+f0e0,Envelope,Communication,Back of Envelope;e-mail;email;envelope;letter;mail;message;newsletter;notification;offer;support
+f0e0,Envelope,Humanitarian,Back of Envelope;e-mail;email;envelope;letter;mail;message;newsletter;notification;offer;support
+f0e0,Envelope,Social,Back of Envelope;e-mail;email;envelope;letter;mail;message;newsletter;notification;offer;support
+f0e0,Envelope,Writing,Back of Envelope;e-mail;email;envelope;letter;mail;message;newsletter;notification;offer;support
+f2b6,Envelope Open,Business,e-mail;email;letter;mail;message;newsletter;notification;offer;support
+f2b6,Envelope Open,Communication,e-mail;email;letter;mail;message;newsletter;notification;offer;support
+f2b6,Envelope Open,Writing,e-mail;email;letter;mail;message;newsletter;notification;offer;support
+f06e,Eye,Accessibility,body;eye;look;optic;see;seen;show;sight;views;visible
+f06e,Eye,Design,body;eye;look;optic;see;seen;show;sight;views;visible
+f06e,Eye,Maps,body;eye;look;optic;see;seen;show;sight;views;visible
+f06e,Eye,Medical + Health,body;eye;look;optic;see;seen;show;sight;views;visible
+f06e,Eye,Photos + Images,body;eye;look;optic;see;seen;show;sight;views;visible
+f06e,Eye,Security,body;eye;look;optic;see;seen;show;sight;views;visible
+f070,Eye Slash,Design,blind;disabled;hide;show;toggle;unseen;views;visible;visiblity
+f070,Eye Slash,Editing,blind;disabled;hide;show;toggle;unseen;views;visible;visiblity
+f070,Eye Slash,Maps,blind;disabled;hide;show;toggle;unseen;views;visible;visiblity
+f070,Eye Slash,Photos + Images,blind;disabled;hide;show;toggle;unseen;views;visible;visiblity
+f070,Eye Slash,Security,blind;disabled;hide;show;toggle;unseen;views;visible;visiblity
+f556,Face Angry,Emoji,angry;angry face;disapprove;emoticon;face;mad;upset
+f567,Face Dizzy,Emoji,dazed;dead;disapprove;emoticon;face
+f579,Face Flushed,Emoji,dazed;embarrassed;emoticon;face;flushed;flushed face
+f119,Face Frown,Communication,disapprove;emoticon;face;frown;frowning face;rating;sad;uer
+f119,Face Frown,Emoji,disapprove;emoticon;face;frown;frowning face;rating;sad;uer
+f119,Face Frown,Users + People,disapprove;emoticon;face;frown;frowning face;rating;sad;uer
+f57a,Face Frown Open,Emoji,disapprove;emoticon;face;frown;frowning face with open mouth;mouth;open;rating;sad
+f57f,Face Grimace,Emoji,cringe;emoticon;face;grimace;grimacing face;teeth
+f580,Face Grin,Emoji,emoticon;face;grin;grinning face;laugh;smile
+f582,Face Grin Beam,Emoji,emoticon;eye;face;grinning face with smiling eyes;laugh;mouth;open;smile
+f583,Face Grin Beam Sweat,Emoji,cold;embarass;emoticon;face;grinning face with sweat;open;smile;sweat
+f584,Face Grin Hearts,Emoji,emoticon;eye;face;love;smile;smiling face with heart-eyes
+f584,Face Grin Hearts,Holidays,emoticon;eye;face;love;smile;smiling face with heart-eyes
+f585,Face Grin Squint,Emoji,emoticon;face;grinning squinting face;laugh;mouth;satisfied;smile
+f586,Face Grin Squint Tears,Emoji,emoticon;face;floor;happy;laugh;rolling;rolling on the floor laughing;smile
+f587,Face Grin Stars,Emoji,emoticon;eyes;face;grinning;quality;star;star-struck;starry-eyed;vip
+f588,Face Grin Tears,Emoji,LOL;emoticon;face;face with tears of joy;joy;laugh;tear
+f589,Face Grin Tongue,Emoji,LOL;emoticon;face;face with tongue;tongue
+f58a,Face Grin Tongue Squint,Emoji,LOL;emoticon;eye;face;horrible;squinting face with tongue;taste;tongue
+f58b,Face Grin Tongue Wink,Emoji,LOL;emoticon;eye;face;joke;tongue;wink;winking face with tongue
+f581,Face Grin Wide,Emoji,emoticon;face;grinning face with big eyes;laugh;mouth;open;smile
+f58c,Face Grin Wink,Emoji,emoticon;face;flirt;laugh;smile
+f596,Face Kiss,Emoji,beso;emoticon;face;kiss;kissing face;love;smooch
+f597,Face Kiss Beam,Emoji,beso;emoticon;eye;face;kiss;kissing face with smiling eyes;love;smile;smooch
+f598,Face Kiss Wink Heart,Emoji,beso;emoticon;face;face blowing a kiss;kiss;love;smooch
+f598,Face Kiss Wink Heart,Holidays,beso;emoticon;face;face blowing a kiss;kiss;love;smooch
+f599,Face Laugh,Emoji,LOL;emoticon;face;laugh;smile
+f59a,Face Laugh Beam,Emoji,LOL;beaming face with smiling eyes;emoticon;eye;face;grin;happy;smile
+f59b,Face Laugh Squint,Emoji,LOL;emoticon;face;happy;smile
+f59c,Face Laugh Wink,Emoji,LOL;emoticon;face;happy;smile
+f11a,Face Meh,Communication,deadpan;default;emoticon;face;meh;neutral;neutral face;rating;uer
+f11a,Face Meh,Emoji,deadpan;default;emoticon;face;meh;neutral;neutral face;rating;uer
+f11a,Face Meh,Users + People,deadpan;default;emoticon;face;meh;neutral;neutral face;rating;uer
+f5a4,Face Meh Blank,Emoji,emoticon;face;face without mouth;mouth;neutral;quiet;rating;silent
+f5a5,Face Rolling Eyes,Emoji,emoticon;eyeroll;eyes;face;face with rolling eyes;neutral;rating;rolling
+f5b3,Face Sad Cry,Emoji,cry;emoticon;face;loudly crying face;sad;sob;tear;tears
+f5b4,Face Sad Tear,Emoji,cry;crying face;emoticon;face;sad;tear;tears
+f118,Face Smile,Communication,approve;default;emoticon;face;happy;rating;satisfied;slightly smiling face;smile;uer
+f118,Face Smile,Emoji,approve;default;emoticon;face;happy;rating;satisfied;slightly smiling face;smile;uer
+f118,Face Smile,Users + People,approve;default;emoticon;face;happy;rating;satisfied;slightly smiling face;smile;uer
+f5b8,Face Smile Beam,Emoji,blush;emoticon;eye;face;happy;positive;smile;smiling face with smiling eyes
+f4da,Face Smile Wink,Emoji,emoticon;face;happy;hint;joke;wink;winking face
+f5c2,Face Surprise,Emoji,emoticon;face;face with open mouth;mouth;open;shocked;sympathy
+f5c8,Face Tired,Emoji,angry;emoticon;face;grumpy;tired;tired face;upset
+f15b,File,Business,Empty Document;cv;document;new;page;page facing up;pdf;resume
+f15b,File,Coding,Empty Document;cv;document;new;page;page facing up;pdf;resume
+f15b,File,Files,Empty Document;cv;document;new;page;page facing up;pdf;resume
+f15b,File,Humanitarian,Empty Document;cv;document;new;page;page facing up;pdf;resume
+f15b,File,Shapes,Empty Document;cv;document;new;page;page facing up;pdf;resume
+f15b,File,Writing,Empty Document;cv;document;new;page;page facing up;pdf;resume
+f1c7,File Audio,Files,document;mp3;music;page;play;sound
+f1c7,File Audio,Film + Video,document;mp3;music;page;play;sound
+f1c7,File Audio,Music + Audio,document;mp3;music;page;play;sound
+f1c9,File Code,Coding,css;development;document;html;mysql;sql
+f1c9,File Code,Files,css;development;document;html;mysql;sql
+f1c3,File Excel,Files,csv;document;numbers;spreadsheets;table
+f1c5,File Image,Files,Document with Picture;document;image;img;jpg;photo;png
+f1c5,File Image,Photos + Images,Document with Picture;document;image;img;jpg;photo;png
+f15c,File Lines,Business,Document;Document with Text;document;file-text;invoice;new;page;pdf
+f15c,File Lines,Coding,Document;Document with Text;document;file-text;invoice;new;page;pdf
+f15c,File Lines,Files,Document;Document with Text;document;file-text;invoice;new;page;pdf
+f15c,File Lines,Writing,Document;Document with Text;document;file-text;invoice;new;page;pdf
+f1c1,File Pdf,Files,acrobat;document;preview;save
+f1c1,File Pdf,Humanitarian,acrobat;document;preview;save
+f1c4,File Powerpoint,Files,display;document;keynote;presentation
+f1c8,File Video,Files,document;m4v;movie;mp4;play
+f1c8,File Video,Film + Video,document;m4v;movie;mp4;play
+f1c2,File Word,Files,document;edit;page;text;writing
+f1c6,File Zipper,Files,.zip;bundle;compress;compression;download;zip
+f024,Flag,Humanitarian,black flag;country;notice;notification;notify;pole;report;symbol;waving
+f024,Flag,Maps,black flag;country;notice;notification;notify;pole;report;symbol;waving
+f0c7,Floppy Disk,Business,Black Hard Shell Floppy Disk;computer;disk;download;floppy;floppy disk;floppy-o
+f0c7,Floppy Disk,Design,Black Hard Shell Floppy Disk;computer;disk;download;floppy;floppy disk;floppy-o
+f0c7,Floppy Disk,Devices + Hardware,Black Hard Shell Floppy Disk;computer;disk;download;floppy;floppy disk;floppy-o
+f0c7,Floppy Disk,Files,Black Hard Shell Floppy Disk;computer;disk;download;floppy;floppy disk;floppy-o
+f07b,Folder,Business,Black Folder;archive;directory;document;file;file folder;folder
+f07b,Folder,Coding,Black Folder;archive;directory;document;file;file folder;folder
+f07b,Folder,Files,Black Folder;archive;directory;document;file;file folder;folder
+f07b,Folder,Shapes,Black Folder;archive;directory;document;file;file folder;folder
+f07b,Folder,Writing,Black Folder;archive;directory;document;file;file folder;folder
+e185,Folder Closed,Files,file
+f07c,Folder Open,Business,Open Folder;archive;directory;document;empty;file;folder;new;open;open file folder
+f07c,Folder Open,Coding,Open Folder;archive;directory;document;empty;file;folder;new;open;open file folder
+f07c,Folder Open,Files,Open Folder;archive;directory;document;empty;file;folder;new;open;open file folder
+f07c,Folder Open,Writing,Open Folder;archive;directory;document;empty;file;folder;new;open;open file folder
+f2b4,Font Awesome,Coding,awesome;flag;font;icons;typeface
+f2b4,Font Awesome,Design,awesome;flag;font;icons;typeface
+f1e3,Futbol,Sports + Fitness,ball;football;mls;soccer;soccer ball
+f3a5,Gem,Shopping,diamond;gem;gem stone;jewel;jewelry;sapphire;stone;treasure
+f256,Hand,Hands,Raised Hand;backhand;game;halt;palm;raised;raised back of hand;request;roshambo;stop
+f256,Hand,Media Playback,Raised Hand;backhand;game;halt;palm;raised;raised back of hand;request;roshambo;stop
+f255,Hand Back Fist,Hands,fist;game;roshambo
+f258,Hand Lizard,Hands,game;roshambo
+f25b,Hand Peace,Hands,hand;rest;truce;v;victory;victory hand
+f0a7,Hand Point Down,Hands,finger;hand-o-down;point
+f0a5,Hand Point Left,Hands,back;finger;hand-o-left;left;point;previous
+f0a4,Hand Point Right,Hands,finger;forward;hand-o-right;next;point;right
+f0a6,Hand Point Up,Hands,finger;hand;hand-o-up;index;index pointing up;point;request;up;upgrade
+f25a,Hand Pointer,Hands,arrow;cursor;select
+f257,Hand Scissors,Hands,cut;game;roshambo
+f259,Hand Spock,Hands,finger;hand;live long;palm;prosper;salute;spock;star trek;vulcan;vulcan salute
+f259,Hand Spock,Science Fiction,finger;hand;live long;palm;prosper;salute;spock;star trek;vulcan;vulcan salute
+f2b5,Handshake,Charity,agreement;greeting;meeting;partnership
+f2b5,Handshake,Hands,agreement;greeting;meeting;partnership
+f2b5,Handshake,Humanitarian,agreement;greeting;meeting;partnership
+f2b5,Handshake,Political,agreement;greeting;meeting;partnership
+f2b5,Handshake,Shopping,agreement;greeting;meeting;partnership
+f0a0,Hard Drive,Devices + Hardware,Hard Disk;cpu;hard drive;harddrive;machine;save;storage
+f025,Headphones,Devices + Hardware,audio;earbud;headphone;listen;music;sound;speaker
+f025,Headphones,Film + Video,audio;earbud;headphone;listen;music;sound;speaker
+f025,Headphones,Music + Audio,audio;earbud;headphone;listen;music;sound;speaker
+f004,Heart,Charity,ace;card;favorite;game;heart;heart suit;like;love;relationship;valentine;wishlist
+f004,Heart,Gaming,ace;card;favorite;game;heart;heart suit;like;love;relationship;valentine;wishlist
+f004,Heart,Holidays,ace;card;favorite;game;heart;heart suit;like;love;relationship;valentine;wishlist
+f004,Heart,Maps,ace;card;favorite;game;heart;heart suit;like;love;relationship;valentine;wishlist
+f004,Heart,Medical + Health,ace;card;favorite;game;heart;heart suit;like;love;relationship;valentine;wishlist
+f004,Heart,Shapes,ace;card;favorite;game;heart;heart suit;like;love;relationship;valentine;wishlist
+f004,Heart,Shopping,ace;card;favorite;game;heart;heart suit;like;love;relationship;valentine;wishlist
+f004,Heart,Social,ace;card;favorite;game;heart;heart suit;like;love;relationship;valentine;wishlist
+f004,Heart,Sports + Fitness,ace;card;favorite;game;heart;heart suit;like;love;relationship;valentine;wishlist
+f0f8,Hospital,Buildings,building;covid-19;doctor;emergency room;hospital;medical center;medicine
+f0f8,Hospital,Humanitarian,building;covid-19;doctor;emergency room;hospital;medical center;medicine
+f0f8,Hospital,Maps,building;covid-19;doctor;emergency room;hospital;medical center;medicine
+f0f8,Hospital,Medical + Health,building;covid-19;doctor;emergency room;hospital;medical center;medicine
+f254,Hourglass,Time,hour;hourglass;hourglass not done;minute;sand;stopwatch;time;timer
+f252,Hourglass Half,Time,hour;minute;pending;sand;stopwatch;time;waiting
+f015,House,Buildings,abode;building;home;house;main;residence
+f015,House,Maps,abode;building;home;house;main;residence
+f2c1,Id Badge,Photos + Images,address;contact;identification;license;profile;uer;username
+f2c1,Id Badge,Security,address;contact;identification;license;profile;uer;username
+f2c1,Id Badge,Users + People,address;contact;identification;license;profile;uer;username
+f2c2,Id Card,Humanitarian,contact;demographics;document;identification;issued;profile;registration;uer;username
+f2c2,Id Card,Photos + Images,contact;demographics;document;identification;issued;profile;registration;uer;username
+f2c2,Id Card,Security,contact;demographics;document;identification;issued;profile;registration;uer;username
+f2c2,Id Card,Users + People,contact;demographics;document;identification;issued;profile;registration;uer;username
+f03e,Image,Maps,album;img;landscape;photo;picture
+f03e,Image,Photos + Images,album;img;landscape;photo;picture
+f03e,Image,Social,album;img;landscape;photo;picture
+f302,Images,Maps,album;img;landscape;photo;picture
+f302,Images,Photos + Images,album;img;landscape;photo;picture
+f302,Images,Social,album;img;landscape;photo;picture
+f11c,Keyboard,Coding,accessory;computer;edit;input;keyboard;text;type;write
+f11c,Keyboard,Devices + Hardware,accessory;computer;edit;input;keyboard;text;type;write
+f11c,Keyboard,Writing,accessory;computer;edit;input;keyboard;text;type;write
+f094,Lemon,Food + Beverage,citrus;fruit;lemon;lemonade;lime;tart
+f094,Lemon,Fruits + Vegetables,citrus;fruit;lemon;lemonade;lime;tart
+f094,Lemon,Maps,citrus;fruit;lemon;lemonade;lime;tart
+f1cd,Life Ring,Humanitarian,coast guard;help;overboard;save;support
+f1cd,Life Ring,Maps,coast guard;help;overboard;save;support
+f1cd,Life Ring,Spinners,coast guard;help;overboard;save;support
+f0eb,Lightbulb,Energy,bulb;bulb;comic;comic;electric;electric;energy;idea;idea;innovation;inspiration;inspiration;light;light bulb;mechanical
+f0eb,Lightbulb,Household,bulb;bulb;comic;comic;electric;electric;energy;idea;idea;innovation;inspiration;inspiration;light;light bulb;mechanical
+f0eb,Lightbulb,Maps,bulb;bulb;comic;comic;electric;electric;energy;idea;idea;innovation;inspiration;inspiration;light;light bulb;mechanical
+f0eb,Lightbulb,Marketing,bulb;bulb;comic;comic;electric;electric;energy;idea;idea;innovation;inspiration;inspiration;light;light bulb;mechanical
+f279,Map,Camping,address;coordinates;destination;gps;localize;location;map;navigation;paper;pin;place;point of interest;position;route;travel;world;world map
+f279,Map,Maps,address;coordinates;destination;gps;localize;location;map;navigation;paper;pin;place;point of interest;position;route;travel;world;world map
+f279,Map,Travel + Hotel,address;coordinates;destination;gps;localize;location;map;navigation;paper;pin;place;point of interest;position;route;travel;world;world map
+f27a,Message,Communication,answer;bubble;chat;commenting;conversation;conversation;discussion;feedback;message;note;notification;sms;speech;talk;talking;texting
+f27a,Message,Social,answer;bubble;chat;commenting;conversation;conversation;discussion;feedback;message;note;notification;sms;speech;talk;talking;texting
+f3d1,Money Bill 1,Maps,buy;cash;checkout;money;payment;premium;price;purchase;salary
+f3d1,Money Bill 1,Money,buy;cash;checkout;money;payment;premium;price;purchase;salary
+f186,Moon,Astronomy,Power Sleep Symbol;contrast;crescent;crescent moon;dark;lunar;moon;night
+f186,Moon,Weather,Power Sleep Symbol;contrast;crescent;crescent moon;dark;lunar;moon;night
+f1ea,Newspaper,Maps,article;editorial;headline;journal;journalism;news;newsletter;newspaper;paper;press
+f1ea,Newspaper,Writing,article;editorial;headline;journal;journalism;news;newsletter;newspaper;paper;press
+f249,Note Sticky,Business,message;note;paper;reminder;sticker
+f249,Note Sticky,Files,message;note;paper;reminder;sticker
+f249,Note Sticky,Writing,message;note;paper;reminder;sticker
+f247,Object Group,Design,combine;copy;design;merge;select
+f248,Object Ungroup,Design,copy;design;merge;select;separate
+f1d8,Paper Plane,Communication,air;float;fold;mail;paper;send
+f1d8,Paper Plane,Transportation,air;float;fold;mail;paper;send
+f1d8,Paper Plane,Writing,air;float;fold;mail;paper;send
+f0ea,Paste,Business,clipboard;copy;document;paper
+f0ea,Paste,Design,clipboard;copy;document;paper
+f0ea,Paste,Files,clipboard;copy;document;paper
+f044,Pen To Square,Business,edit;modify;pen;pencil;update;write
+f044,Pen To Square,Design,edit;modify;pen;pencil;update;write
+f044,Pen To Square,Editing,edit;modify;pen;pencil;update;write
+f044,Pen To Square,Writing,edit;modify;pen;pencil;update;write
+f022,Rectangle List,Text Formatting,cheatsheet;checklist;completed;done;finished;ol;summary;todo;ul
+f410,Rectangle Xmark,Coding,browser;cancel;computer;development;uncheck
+f25d,Registered,Business,copyright;mark;r;registered;trademark
+f14d,Share From Square,Arrows,forward;save;send;social
+f14d,Share From Square,Social,forward;save;send;social
+f2dc,Snowflake,Disaster + Crisis,Heavy Chevron Snowflake;cold;precipitation;rain;snow;snowfall;snowflake;winter
+f2dc,Snowflake,Household,Heavy Chevron Snowflake;cold;precipitation;rain;snow;snowfall;snowflake;winter
+f2dc,Snowflake,Humanitarian,Heavy Chevron Snowflake;cold;precipitation;rain;snow;snowfall;snowflake;winter
+f2dc,Snowflake,Spinners,Heavy Chevron Snowflake;cold;precipitation;rain;snow;snowfall;snowflake;winter
+f2dc,Snowflake,Travel + Hotel,Heavy Chevron Snowflake;cold;precipitation;rain;snow;snowfall;snowflake;winter
+f2dc,Snowflake,Weather,Heavy Chevron Snowflake;cold;precipitation;rain;snow;snowfall;snowflake;winter
+f0c8,Square,Shapes,Black Square;black medium square;block;box;geometric;shape;square;white medium square
+f150,Square Caret Down,Arrows,arrow;caret-square-o-down;dropdown;expand;insert;menu;more;triangle
+f191,Square Caret Left,Arrows,arrow;back;caret-square-o-left;previous;triangle
+f152,Square Caret Right,Arrows,arrow;caret-square-o-right;forward;next;triangle
+f151,Square Caret Up,Arrows,arrow;caret-square-o-up;collapse;triangle;upgrade;upload
+f14a,Square Check,Editing,accept;agree;box;button;check;check box with check;check mark button;checkmark;confirm;correct;coupon;done;enable;mark;ok;select;success;tick;todo;validate;working;yes;✓
+f14a,Square Check,Text Formatting,accept;agree;box;button;check;check box with check;check mark button;checkmark;confirm;correct;coupon;done;enable;mark;ok;select;success;tick;todo;validate;working;yes;✓
+f45c,Square Full,Gaming,black large square;block;blue;blue square;box;brown;brown square;geometric;green;green square;orange;orange square;purple;purple square;red;red square;shape;square;white large square;yellow;yellow square
+f146,Square Minus,Mathematics,collapse;delete;hide;minify;negative;remove;shape;trash
+f0fe,Square Plus,Maps,add;create;expand;new;positive;shape
+f0fe,Square Plus,Medical + Health,add;create;expand;new;positive;shape
+f005,Star,Shapes,achievement;award;favorite;important;night;quality;rating;score;star;vip
+f005,Star,Shopping,achievement;award;favorite;important;night;quality;rating;score;star;vip
+f005,Star,Social,achievement;award;favorite;important;night;quality;rating;score;star;vip
+f005,Star,Toggle,achievement;award;favorite;important;night;quality;rating;score;star;vip
+f089,Star Half,Toggle,achievement;award;rating;score;star-half-empty;star-half-full
+f5c0,Star Half Stroke,Toggle,achievement;award;rating;score;star-half-empty;star-half-full
+f185,Sun,Energy,bright;brighten;contrast;day;lighter;rays;sol;solar;star;sun;sunny;weather
+f185,Sun,Spinners,bright;brighten;contrast;day;lighter;rays;sol;solar;star;sun;sunny;weather
+f185,Sun,Weather,bright;brighten;contrast;day;lighter;rays;sol;solar;star;sun;sunny;weather
+f165,Thumbs Down,Hands,-1;disagree;disapprove;dislike;down;hand;social;thumb;thumbs down;thumbs-o-down
+f165,Thumbs Down,Shopping,-1;disagree;disapprove;dislike;down;hand;social;thumb;thumbs down;thumbs-o-down
+f165,Thumbs Down,Social,-1;disagree;disapprove;dislike;down;hand;social;thumb;thumbs down;thumbs-o-down
+f164,Thumbs Up,Hands,+1;agree;approve;favorite;hand;like;ok;okay;social;success;thumb;thumbs up;thumbs-o-up;up;yes;you got it dude
+f164,Thumbs Up,Shopping,+1;agree;approve;favorite;hand;like;ok;okay;social;success;thumb;thumbs up;thumbs-o-up;up;yes;you got it dude
+f164,Thumbs Up,Social,+1;agree;approve;favorite;hand;like;ok;okay;social;success;thumb;thumbs up;thumbs-o-up;up;yes;you got it dude
+f2ed,Trash Can,Editing,delete;garbage;hide;remove;trash-o
+f2ed,Trash Can,Humanitarian,delete;garbage;hide;remove;trash-o
+f0d1,Truck,Automotive,Black Truck;cargo;delivery;delivery truck;shipping;truck;vehicle
+f0d1,Truck,Humanitarian,Black Truck;cargo;delivery;delivery truck;shipping;truck;vehicle
+f0d1,Truck,Logistics,Black Truck;cargo;delivery;delivery truck;shipping;truck;vehicle
+f0d1,Truck,Maps,Black Truck;cargo;delivery;delivery truck;shipping;truck;vehicle
+f0d1,Truck,Shopping,Black Truck;cargo;delivery;delivery truck;shipping;truck;vehicle
+f0d1,Truck,Transportation,Black Truck;cargo;delivery;delivery truck;shipping;truck;vehicle
+f007,User,Social,adult;bust;bust in silhouette;default;employee;gender-neutral;person;profile;silhouette;uer;unspecified gender;username;users-people
+f007,User,Users + People,adult;bust;bust in silhouette;default;employee;gender-neutral;person;profile;silhouette;uer;unspecified gender;username;users-people
+f2d0,Window Maximize,Coding,Maximize;browser;computer;development;expand
+f2d1,Window Minimize,Coding,Minimize;browser;collapse;computer;development
+f2d2,Window Restore,Coding,browser;computer;development

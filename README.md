@@ -2,6 +2,9 @@
 Modern Icon Office-VSTO Addins and useful tools.  
 モダンアイコンをOfficeアプリなどに活用するツールです。
 
+## リリース / ダウンロード
+[Releases](https://github.com/longlongago-k/ModernIconAddins/releases/)
+
 ## 機能 (Features)
 現在以下3つのツールが提供されます。
 

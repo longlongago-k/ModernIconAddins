@@ -133,23 +133,23 @@
   <data name="FluentSystemIcons_Regular_codepoints" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resource\codepoints\FluentSystemIcons-Regular.codepoints.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
-  <data name="Font_Awesome6Brands_codepoints" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resource\codepoints\Font Awesome6Brands.codepoints.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  <data name="Font_Awesome7Brands_codepoints" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resource\codepoints\Font Awesome7Brands.codepoints.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
-  <data name="Font_Awesome6Regular_codepoints" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resource\codepoints\Font Awesome6Regular.codepoints.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  <data name="Font_Awesome7Regular_codepoints" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resource\codepoints\Font Awesome7Regular.codepoints.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
-  <data name="Font_Awesome6Solid_codepoints" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resource\codepoints\Font Awesome6Solid.codepoints.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  <data name="Font_Awesome7Solid_codepoints" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resource\codepoints\Font Awesome7Solid.codepoints.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
-  <data name="Font_Awesome_6_Brands_Regular_400" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resource\fonts\Font Awesome 6 Brands-Regular-400.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Font_Awesome_7_Brands_Regular_400" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resource\fonts\Font Awesome 7 Brands-Regular-400.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Font_Awesome_6_Free_Regular_400" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resource\fonts\Font Awesome 6 Free-Regular-400.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Font_Awesome_7_Free_Regular_400" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resource\fonts\Font Awesome 7 Free-Regular-400.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Font_Awesome_6_Free_Solid_900" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resource\fonts\Font Awesome 6 Free-Solid-900.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Font_Awesome_7_Free_Solid_900" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resource\fonts\Font Awesome 7 Free-Solid-900.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Grid_16x" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resource\icons\Grid_16x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -188,6 +188,6 @@
     <value>..\Resource\icons\Refresh_16x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="SegoeMDL2Assets_codepoints" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resource\codepoints\SegoeMDL2Assets.codepoints.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>..\Resource\codepoints\SegoeMDL2Assets.codepoints.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;shift_jis</value>
   </data>
 </root>

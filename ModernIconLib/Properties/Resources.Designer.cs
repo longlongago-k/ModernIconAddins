@@ -85,26 +85,25 @@ namespace ModernIconLib.Properties {
         ///F101,access_time,,
         ///E002,accessibility,,
         ///F00C,accessibility_checkmark,,
-        ///F10B,add,,
-        ///E006,add_circle,,
-        ///F8E2,add_square,,
-        ///E009,add_square_multiple,,
+        ///F05CB,accessibility_error,,
+        ///F06C6,accessibility_more,,
+        ///F05CD,accessibility_question_mark,,
+        ///F5A3,add,,
+        ///F0747,add_circle,,
+        ///F01E5,add_square,,
+        ///F0279,add_square_multiple,,
+        ///F0960,add_starburst,,
         ///E00E,add_subtract_circle,,
-        ///F110,airplane,,
+        ///F0870,agents,,
+        ///F0A50,agents_add,,
+        ///F070B,airplane,,
+        ///E0EF,airplane_landing,,
         ///F113,airplane_take_off,,
         ///E010,album,,
         ///E012,album_add,,
         ///E016,alert,,
-        ///E019,alert_badge,,
-        ///F11A,alert_off,,
-        ///F11B,alert_on,,
-        ///F11D,alert_snooze,,
-        ///F11F,alert_urgent,,
-        ///E023,align_bottom,,
-        ///E029,align_center_horizontal,,
-        ///E02F,align_center_vertical,,
-        ///E030,align_end_horizontal,,
-        ///E031,alig [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///F0871,alert_badge,,
+        ///F11A,alert_off, [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string FluentSystemIcons_Filled_codepoints {
             get {
@@ -127,26 +126,25 @@ namespace ModernIconLib.Properties {
         ///F101,access_time,,
         ///E002,accessibility,,
         ///F00C,accessibility_checkmark,,
-        ///F10B,add,,
-        ///E006,add_circle,,
-        ///F8CA,add_square,,
-        ///E009,add_square_multiple,,
+        ///F0552,accessibility_error,,
+        ///F064A,accessibility_more,,
+        ///F0554,accessibility_question_mark,,
+        ///F598,add,,
+        ///F06CA,add_circle,,
+        ///F01E5,add_square,,
+        ///F0266,add_square_multiple,,
+        ///F08E3,add_starburst,,
         ///E00E,add_subtract_circle,,
-        ///F110,airplane,,
+        ///F07F3,agents,,
+        ///F09D3,agents_add,,
+        ///F0690,airplane,,
+        ///E0EF,airplane_landing,,
         ///F113,airplane_take_off,,
         ///E010,album,,
         ///E012,album_add,,
         ///E016,alert,,
-        ///E019,alert_badge,,
-        ///F11A,alert_off,,
-        ///F11B,alert_on,,
-        ///F11D,alert_snooze,,
-        ///F11F,alert_urgent,,
-        ///E023,align_bottom,,
-        ///E029,align_center_horizontal,,
-        ///E02F,align_center_vertical,,
-        ///E030,align_end_horizontal,,
-        ///E031,alig [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///F07F4,alert_badge,,
+        ///F11A,alert_off, [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string FluentSystemIcons_Regular_codepoints {
             get {
@@ -157,9 +155,9 @@ namespace ModernIconLib.Properties {
         /// <summary>
         ///   型 System.Byte[] のローカライズされたリソースを検索します。
         /// </summary>
-        internal static byte[] Font_Awesome_6_Brands_Regular_400 {
+        internal static byte[] Font_Awesome_7_Brands_Regular_400 {
             get {
-                object obj = ResourceManager.GetObject("Font_Awesome_6_Brands_Regular_400", resourceCulture);
+                object obj = ResourceManager.GetObject("Font_Awesome_7_Brands_Regular_400", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -167,9 +165,9 @@ namespace ModernIconLib.Properties {
         /// <summary>
         ///   型 System.Byte[] のローカライズされたリソースを検索します。
         /// </summary>
-        internal static byte[] Font_Awesome_6_Free_Regular_400 {
+        internal static byte[] Font_Awesome_7_Free_Regular_400 {
             get {
-                object obj = ResourceManager.GetObject("Font_Awesome_6_Free_Regular_400", resourceCulture);
+                object obj = ResourceManager.GetObject("Font_Awesome_7_Free_Regular_400", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -177,91 +175,61 @@ namespace ModernIconLib.Properties {
         /// <summary>
         ///   型 System.Byte[] のローカライズされたリソースを検索します。
         /// </summary>
-        internal static byte[] Font_Awesome_6_Free_Solid_900 {
+        internal static byte[] Font_Awesome_7_Free_Solid_900 {
             get {
-                object obj = ResourceManager.GetObject("Font_Awesome_6_Free_Solid_900", resourceCulture);
+                object obj = ResourceManager.GetObject("Font_Awesome_7_Free_Solid_900", resourceCulture);
                 return ((byte[])(obj));
             }
         }
         
         /// <summary>
         ///   Code,Name,Category,Tags
-        ///e080,42.group,,
-        ///f26e,500px,,
-        ///f368,Accessible Icon,Accessibility;Medical + Health;Transportation;Users + People,
-        ///f369,Accusoft,,
-        ///f170,App.net,,
-        ///f36a,Adversal,,
-        ///f36b,affiliatetheme,,
-        ///f834,Airbnb,,
-        ///f36c,Algolia,,
+        ///f368,Accessible Icon,Accessibility,accessibility;disabled;handicap;person;uer;wheelchair;wheelchair-alt
+        ///f368,Accessible Icon,Medical + Health,accessibility;disabled;handicap;person;uer;wheelchair;wheelchair-alt
+        ///f368,Accessible Icon,Transportation,accessibility;disabled;handicap;person;uer;wheelchair;wheelchair-alt
+        ///f368,Accessible Icon,Users + People,accessibility;disabled;handicap;person;uer;wheelchair;wheelchair-alt
         ///f642,Alipay,Shopping,
-        ///f270,Amazon,,
         ///f42c,Amazon Pay,Shopping,
-        ///f36d,Amilia,,
-        ///f17b,Android,,
-        ///f209,AngelList,,
-        ///f36e,Angry Creative,,
-        ///f420,Angular,,
-        ///f36f,App Store,,
-        ///f370,iOS App Store,,
-        ///f371,Apper Systems AB,,
-        ///f179,Apple,,
-        ///f415,Apple Pay,Shopping,
-        ///f77a,Artst [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///f415,Apple P [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
-        internal static string Font_Awesome6Brands_codepoints {
+        internal static string Font_Awesome7Brands_codepoints {
             get {
-                return ResourceManager.GetString("Font_Awesome6Brands_codepoints", resourceCulture);
+                return ResourceManager.GetString("Font_Awesome7Brands_codepoints", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Code,Name,Category,Tags
-        ///f2b9,Address Book,Business;Communication;Users + People,
-        ///f2bb,Address Card,Business;Communication;Users + People,
-        ///f0f3,bell,Alert;Education;Household;Maps;Shopping;Social;Time,
-        ///f1f6,Bell Slash,Alert;Education;Maps;Time,
-        ///f02e,bookmark,Maps;Shapes;Shopping;Writing,
-        ///f1ad,Building,Buildings;Business;Humanitarian;Maps,
-        ///f133,Calendar,Business;Shapes;Time,
-        ///f274,Calendar Check,Time,
-        ///f073,Calendar Days,Business;Time,
-        ///f272,Calendar Minus,Time,
-        ///f271,Calendar Plus,Time,
-        ///f273,Calendar [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///f2b9,Address Book,Business,contact;directory;employee;index;little black book;portfolio;rolodex;uer;username
+        ///f2b9,Address Book,Communication,contact;directory;employee;index;little black book;portfolio;rolodex;uer;username
+        ///f2b9,Address Book,Users + People,contact;directory;employee;index;little black book;portfolio;rolodex;uer;username
+        ///f2bb,Address Card,Accessibility,about;contact;employee;id;identification;portfolio;postcard;profile;registration;uer;username
+        ///f2bb,Address Card,A [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
-        internal static string Font_Awesome6Regular_codepoints {
+        internal static string Font_Awesome7Regular_codepoints {
             get {
-                return ResourceManager.GetString("Font_Awesome6Regular_codepoints", resourceCulture);
+                return ResourceManager.GetString("Font_Awesome7Regular_codepoints", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Code,Name,Category,Tags
-        ///30,0,Numbers,
-        ///31,1,Numbers,
-        ///32,2,Numbers,
-        ///33,3,Numbers,
-        ///34,4,Numbers,
-        ///35,5,Numbers,
-        ///36,6,Numbers,
-        ///37,7,Numbers,
-        ///38,8,Numbers,
-        ///39,9,Numbers,
-        ///41,A,Alphabet,
-        ///f037,align-center,Text Formatting,
-        ///f039,align-justify,Text Formatting,
-        ///f036,align-left,Text Formatting,
-        ///f038,align-right,Text Formatting,
-        ///f13d,Anchor,Humanitarian;Logistics;Maps;Maritime,
-        ///e4aa,Anchor Circle-check,Humanitarian;Logistics;Maritime,
-        ///e4ab,Anchor Circle-exclamation,Humanitarian;Logistics;Maritime,
-        ///e4ac [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///30,0,Numbers,Digit Zero;nada;none;zero;zilch
+        ///31,1,Numbers,Digit One;one
+        ///32,2,Numbers,Digit Two;two
+        ///33,3,Numbers,Digit Three;three
+        ///34,4,Numbers,Digit Four;four
+        ///35,5,Numbers,Digit Five;five
+        ///36,6,Numbers,Digit Six;six
+        ///37,7,Numbers,Digit Seven;seven
+        ///38,8,Numbers,Digit Eight;eight
+        ///39,9,Numbers,Digit Nine;nine
+        ///41,A,Alphabet,Latin Capital Letter A;Latin Small Letter A;letter
+        ///f2b9,Address Book,Business,contact;directory;employee;index;little black book;portfolio;rolodex;uer;usern [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
-        internal static string Font_Awesome6Solid_codepoints {
+        internal static string Font_Awesome7Solid_codepoints {
             get {
-                return ResourceManager.GetString("Font_Awesome6Solid_codepoints", resourceCulture);
+                return ResourceManager.GetString("Font_Awesome7Solid_codepoints", resourceCulture);
             }
         }
         
@@ -492,18 +460,37 @@ namespace ModernIconLib.Properties {
         
         /// <summary>
         ///   Code,Name,Category,Tags
-        ///E001,CheckMarkLegacy,legacy;checkmark;check;mark,
-        ///E002,CheckboxFillLegacy,legacy;solid;box,
-        ///E003,CheckboxLegacy,legacy,
-        ///E004,CheckboxIndeterminateLegacy,legacy,
-        ///E005,CheckboxCompositeReversedLegacy,legacy,
-        ///E006,HeartLegacy,legacy,
-        ///E007,HeartBrokenLegacy,legacy,
-        ///E008,CheckMarkZeroWidthLegacy,legacy,
-        ///E009,CheckboxFillZeroWidthLegacy,legacy;zero-width,
-        ///E00A,RatingStarFillZeroWidthLegacy,legacy;zero-width,
-        ///E00B,HeartFillZeroWidthLegacy,legacy;zero-width,
-        ///E00C,HeartBrokenZeroW [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///E700,GlobalNavigationButton,,
+        ///E701,Wifi,,
+        ///E702,Bluetooth,,
+        ///E703,Connect,,
+        ///E704,InternetSharing,,
+        ///E705,VPN,,
+        ///E706,Brightness,,
+        ///E707,MapPin,,
+        ///E708,QuietHours,,
+        ///E709,Airplane,,
+        ///E70A,Tablet,,
+        ///E70B,QuickNote,,
+        ///E70C,RememberedDevice,,
+        ///E70D,ChevronDown,,
+        ///E70E,ChevronUp,,
+        ///E70F,Edit,,
+        ///E710,Add,,
+        ///E711,Cancel,,
+        ///E712,More,,
+        ///E713,Setting,,
+        ///E714,Video,,
+        ///E715,Mail,,
+        ///E716,People,,
+        ///E717,Phone,,
+        ///E718,Pin,,
+        ///E719,Shop,,
+        ///E71A,Stop,,
+        ///E71B,Link,,
+        ///E71C,Filter,,
+        ///E71D,AllApps,,
+        /// [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string SegoeMDL2Assets_codepoints {
             get {

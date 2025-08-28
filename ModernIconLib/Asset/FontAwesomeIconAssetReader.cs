@@ -42,9 +42,9 @@ namespace ModernIconLib.Asset
 
         public static IconSetAsset[] ReadFromResource()
         {
-            IconSetAsset asset1 = readFromResource("Font Awesome 6 Free-Regular", "Font Awesome 6 Free Regular", Properties.Resources.Font_Awesome_6_Free_Regular_400, Properties.Resources.Font_Awesome6Regular_codepoints);
-            IconSetAsset asset2 = readFromResource("Font Awesome 6 Free-Solid", "Font Awesome 6 Free Solid", Properties.Resources.Font_Awesome_6_Free_Solid_900, Properties.Resources.Font_Awesome6Solid_codepoints);
-            IconSetAsset asset3 = readFromResource("Font Awesome 6 Free-Brands", "Font Awesome 6 Brands Regular", Properties.Resources.Font_Awesome_6_Brands_Regular_400, Properties.Resources.Font_Awesome6Brands_codepoints);
+            IconSetAsset asset1 = readFromResource("Font Awesome 7 Free-Regular", "Font Awesome 7 Free Regular", Properties.Resources.Font_Awesome_7_Free_Regular_400, Properties.Resources.Font_Awesome7Regular_codepoints);
+            IconSetAsset asset2 = readFromResource("Font Awesome 7 Free-Solid", "Font Awesome 7 Free Solid", Properties.Resources.Font_Awesome_7_Free_Solid_900, Properties.Resources.Font_Awesome7Solid_codepoints);
+            IconSetAsset asset3 = readFromResource("Font Awesome 7 Free-Brands", "Font Awesome 7 Brands Regular", Properties.Resources.Font_Awesome_7_Brands_Regular_400, Properties.Resources.Font_Awesome7Brands_codepoints);
             return new IconSetAsset[] { asset1, asset2, asset3, };
         }
         private static IconSetAsset readFromResource(string name, string familyName, byte[] fontData,string codePoints)

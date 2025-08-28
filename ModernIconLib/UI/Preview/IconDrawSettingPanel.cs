@@ -49,7 +49,7 @@ namespace ModernIconLib.UI.Preview
 
         private void panelColorFill_MouseDown(object sender, MouseEventArgs e)
         {
-            using (var dialog = new Cyotek.Windows.Forms.ColorPickerDialog())
+            using (var dialog = new Cyotek.Windows.Forms.ColorPickerDialog() { Color = panelColorFill.BackColor})
             {
                 if (dialog.ShowDialog() == DialogResult.OK)
                 {
@@ -61,7 +61,7 @@ namespace ModernIconLib.UI.Preview
         }
         private void panelColorOutline_MouseDown(object sender, MouseEventArgs e)
         {
-            using (var dialog = new Cyotek.Windows.Forms.ColorPickerDialog())
+            using (var dialog = new Cyotek.Windows.Forms.ColorPickerDialog() { Color = panelColorOutline.BackColor})
             {
                 if (dialog.ShowDialog() == DialogResult.OK)
                 {
